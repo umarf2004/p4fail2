@@ -6,6 +6,10 @@
     padding: 14px 16px;
     text-decoration: none;
   }
+
+  body{
+    background-color: aliceblue;
+  }
   
  h1 {
     font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;  
